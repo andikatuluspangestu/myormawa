@@ -57,9 +57,9 @@ Website MyOrmawa merupakan website yang dibuat untuk memudahkan Organisasi Kemah
 
 ### 💡 Cara Instalasi
 - Download dan Ekstrak Source Code ke folder htdocs ( Jika menggunakan XAMPP )
-- Buat Database di phpmyadmin dengan nama : himsi
+- Buat Database di phpmyadmin dengan nama : myormawa
 - Import file database yang ada di folder ```/database```
-- Jalankan file nya dengan akses ```localhost/myhimsi/auth``` ( Untuk Login Admin ) atau ```localhost/myhimsi``` ( Untuk Landing Page )
+- Jalankan file nya dengan akses ```localhost/myormawa/auth``` ( Untuk Login Admin ) atau ```localhost/myormawa``` ( Untuk Landing Page )
 
 ### ☕ Referensi, Lisensi Sumber Perangkat Lunak terbuka, Kontribusi
 
