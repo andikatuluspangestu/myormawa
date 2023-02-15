@@ -1,8 +1,6 @@
-# My HIMSI - BETA
+# My Ormawa - BETA
 
-<img src="http://himsiubsitegal.com/assets/img/HIMSI_LOGO.jpg" width="250px">
-
-Website HIMSI UBSI Tegal merupakan website yang dibuat untuk memudahkan HIMSI dalam mengelola data anggota, program kerja, kegiatan, dan aspirasi. Website ini dibuat menggunakan Codeigniter 3 dan Bootstrap 5. Website ini juga akan memiliki fitur PWA (Progressive Web App) yang memungkinkan pengguna untuk mengakses website ini tanpa harus terhubung ke internet.
+MyOrmawa merupakan website yang dibuat untuk memudahkan HIMSI dalam mengelola data anggota, program kerja, kegiatan, dan aspirasi. Website ini dibuat menggunakan Codeigniter 3 dan Bootstrap 5. Website ini juga akan memiliki fitur PWA (Progressive Web App) yang memungkinkan pengguna untuk mengakses website ini tanpa harus terhubung ke internet.
 
 ### 🗒 ToDo List
 - [X] Frontend - Landing Page
@@ -14,9 +12,9 @@ Website HIMSI UBSI Tegal merupakan website yang dibuat untuk memudahkan HIMSI da
 - [x] Frontend - Visi & Misi Section
 - [x] Frontend - Kabinet Section
 - [x] Frontend - Events Section
-- [ ] Frontend - Responsive Web App Support
+- [x] Frontend - Responsive Web App Support
 - [ ] Frontend - Halaman Blog
-- [ ] Frontend - Halaman Feedback
+- [x] Frontend - Halaman Feedback
 - [ ] Frontend - Halaman Pameran Karya
 - [ ] Frontend - Halaman Pendaftaran Anggota
 - [x] Backend - Login
@@ -46,7 +44,7 @@ Website HIMSI UBSI Tegal merupakan website yang dibuat untuk memudahkan HIMSI da
 
 ### 📆 Tanggal Rilis
 
-- 28 Januari 2023
+- BETA : 15 Februari 2023
 
 ### 📝 Persyaratan Penggunaan
 
@@ -61,7 +59,7 @@ Website HIMSI UBSI Tegal merupakan website yang dibuat untuk memudahkan HIMSI da
 - Download dan Ekstrak Source Code ke folder htdocs ( Jika menggunakan XAMPP )
 - Buat Database di phpmyadmin dengan nama : himsi
 - Import file database yang ada di folder ```/database```
-- Jalankan file nya dengan akses ```localhost/myhimsi/auth``` ( Untuk Login Admin ) atau ```localhost/myhimsi``` ( Untuk Landing Page )
+- Jalankan file nya dengan akses ```localhost/myormawa/auth``` ( Untuk Login Admin ) atau ```localhost/myormawa``` ( Untuk Landing Page )
 
 ### ☕ Referensi, Lisensi Sumber Perangkat Lunak terbuka, Kontribusi
 
