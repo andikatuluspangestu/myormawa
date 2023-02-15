@@ -1,6 +1,8 @@
-# My Ormawa - BETA
+# My HIMSI - BETA
 
-Website MyOrmawa merupakan website yang dibuat untuk memudahkan Organisasi Kemahasiswaan dalam mengelola data anggota, program kerja, kegiatan, dan aspirasi. Website ini dibuat menggunakan Codeigniter 3 dan Bootstrap 5. Website ini juga akan memiliki fitur PWA (Progressive Web App) yang memungkinkan pengguna untuk mengakses website ini tanpa harus terhubung ke internet.
+<img src="http://himsiubsitegal.com/assets/img/HIMSI_LOGO.jpg" width="250px">
+
+Website HIMSI UBSI Tegal merupakan website yang dibuat untuk memudahkan HIMSI dalam mengelola data anggota, program kerja, kegiatan, dan aspirasi. Website ini dibuat menggunakan Codeigniter 3 dan Bootstrap 5. Website ini juga akan memiliki fitur PWA (Progressive Web App) yang memungkinkan pengguna untuk mengakses website ini tanpa harus terhubung ke internet.
 
 ### 🗒 ToDo List
 - [X] Frontend - Landing Page
@@ -57,9 +59,9 @@ Website MyOrmawa merupakan website yang dibuat untuk memudahkan Organisasi Kemah
 
 ### 💡 Cara Instalasi
 - Download dan Ekstrak Source Code ke folder htdocs ( Jika menggunakan XAMPP )
-- Buat Database di phpmyadmin dengan nama : myormawa
+- Buat Database di phpmyadmin dengan nama : himsi
 - Import file database yang ada di folder ```/database```
-- Jalankan file nya dengan akses ```localhost/myormawa/auth``` ( Untuk Login Admin ) atau ```localhost/myormawa``` ( Untuk Landing Page )
+- Jalankan file nya dengan akses ```localhost/myhimsi/auth``` ( Untuk Login Admin ) atau ```localhost/myhimsi``` ( Untuk Landing Page )
 
 ### ☕ Referensi, Lisensi Sumber Perangkat Lunak terbuka, Kontribusi
 
